@@ -1,16 +1,7 @@
-# about_me
+# About Me: A Profile App
 
-A new Flutter project.
+A Flutter project to display Users Info and Contact Details.
 
-## Getting Started
+## Application Screens
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Sanjay0907/About-Me/assets/90062803/36280e7c-5f58-4048-9f2d-5cad21666282" alt="The Minion Selfie" width="300" height="700">
